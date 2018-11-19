@@ -1,0 +1,33 @@
+{
+  "name": "vuepress-theme-nativescript-vue",
+  "version": "1.0.0",
+  "description": "NativeScript-Vue theme for VuePress",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nativescript-vue/vuepress-theme-nativescript-vue.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "mobile",
+    "Vue.js",
+    "Vue",
+    "vuepress",
+    "theme",
+    "nativescript-vue"
+  ],
+  "contributors": [
+    "Igor Randjelovic",
+    "Jen Looper"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nativescript-vue/vuepress-theme-nativescript-vue/issues"
+  },
+  "homepage": "https://github.com/nativescript-vue/vuepress-theme-nativescript-vue",
+  "dependencies": {
+    "tailwindcss": "^0.7.2",
+    "autoprefixer": "^9.3.1"
+  }
+}
